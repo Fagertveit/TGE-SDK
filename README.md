@@ -1,4 +1,5 @@
 # TreSensa Game Engine TGE-SDK v0.3
+More details at http://www.tresensa.com/developers/
 
 ## Release Notes
 - Audio manager
