@@ -1,4 +1,3 @@
-TGE-SDK
-=======
+# TreSensa Game Engine TGE-SDK v0.2
 
-TreSensa Game Engine SDK
+## Release Notes
